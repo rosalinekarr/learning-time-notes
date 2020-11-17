@@ -1,0 +1,14 @@
+{
+  "name": "learning-time-notes",
+  "version": "0.0.0",
+  "description": "This is a repo to store lessons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
